@@ -1,0 +1,9 @@
+[submodule "fuzzy"]
+	path = fuzzy
+	url = ./el-get/fuzzy/
+[submodule "smex"]
+	path = smex
+	url = ./el-get/smex/
+[submodule "yasnippet"]
+	path = yasnippet
+	url = ./el-get/yasnippet/
