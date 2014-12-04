@@ -1,9 +1,33 @@
 [submodule "fuzzy"]
 	path = fuzzy
 	url = ./el-get/fuzzy/
+	ignore = dirty
 [submodule "smex"]
 	path = smex
 	url = ./el-get/smex/
+	ignore = dirty
 [submodule "yasnippet"]
 	path = yasnippet
 	url = ./el-get/yasnippet/
+	ignore = dirty
+[submodule "auctex"]
+	path = auctex
+	url = ./el-get/auctex/
+[submodule "auto-complete-auctex"]
+	path = auto-complete-auctex
+	url = ./el-get/auto-complete-auctex/
+[submodule "auto-complete"]
+	path = auto-complete
+	url = ./el-get/auto-complete/
+[submodule "autopair"]
+	path = autopair
+	url = ./el-get/autopair/
+[submodule "git-modes"]
+	path = git-modes
+	url = ./el-get/git-modes/
+[submodule "org-mode"]
+	path = org-mode
+	url = ./el-get/org-mode/
+[submodule "popup"]
+	path = popup
+	url = ./el-get/popup/
